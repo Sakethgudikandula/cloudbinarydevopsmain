@@ -1,6 +1,6 @@
-JENKINS: CI tool
-SONARQUBE: Continuous static code analysis
-Maven: Build tool 
+### JENKINS: CI tool
+##SONARQUBE: Continuous static code analysis
+#### Maven: Build tool 
 Maven LIfecycle: 
   validate - validate the project is correct and all necessary information is available
   compile - compile the source code of the project
