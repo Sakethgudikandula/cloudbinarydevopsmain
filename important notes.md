@@ -9,3 +9,8 @@ Maven LIfecycle:
   verify - run any checks on results of integration tests to ensure quality criteria are met
   install - install the package into the local repository, for use as a dependency in other projects locally
   deploy - done in the build environment, copies the final package to the remote repository for sharing with other developers and projects.
+
+
+SONARQUBE- CONTINUOUS STATIC CODE ANALYSIS- if faing any issues with the processed code, it will show the errors in the sonarqube and we need to make the changes before deploying. We can also do this in sonarcloud as software as a service
+
+JFROG- storing of artificats ie binary code repostory is done here just for future purpose to check the code 
